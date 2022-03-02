@@ -11,3 +11,4 @@ From [tarun36rocker/Zoom_Background_Remover-CVzone](https://github.com/tarun36ro
 
 ### Reference
 - [BakingBrains/Real-Time_Background_remover](https://github.com/BakingBrains/Real-Time_Background_remover)
+- [Background Removal Like Zoom | OpenCV Python CVZone - YouTube](https://www.youtube.com/watch?v=k7cVPGpnels)
